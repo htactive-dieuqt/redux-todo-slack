@@ -1,2 +1,2 @@
-# redux-todo-slack
-Sử dụng firebase lưu trữ
+# redux-todo-slack- Sử dụng firebase lưu trữ
+
